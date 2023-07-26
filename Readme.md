@@ -46,4 +46,4 @@ Additionally, you can modify the symbols, their counts, and values by updating t
 Enjoy the Game!
 Have fun playing the Slot Machine Game! Test your luck, aim for winning combinations, and see how much you can win. Good luck, and may the symbols be in your favor!
 
-credits to TechWithTim for an amazing tutorial.
+Credits to TechWithTim for an amazing tutorial.
