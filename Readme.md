@@ -23,22 +23,16 @@ Keep Playing: You can continue playing as long as you like. To play another roun
 
 Rules
 The game uses four different symbols: A, B, C, and D. Each symbol has a corresponding count and value.
-
 The player can bet on 1 to 3 lines and choose the bet amount for each line.
-
 The game will check for winning combinations on each line separately.
-
 To win on a line, you need to have the same symbol on all three columns of that line.
-
 If you win, your winnings will be calculated as the product of the symbol value and the bet amount for the winning line.
-
 If you lose the bet, your balance will be decreased by the total bet amount.
-
 The game will prevent you from betting more than your current balance.
-
 After each round, the player's remaining balance will be displayed.
 
 Customization
+
 You can customize the game by changing the constants at the beginning of the main.py file. You can adjust the maximum and minimum bet amounts, the number of lines, and the number of columns in the slot machine.
 
 Additionally, you can modify the symbols, their counts, and values by updating the symbol_count and symbol_value dictionaries in the code.
